@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Minooaref and I am an Electrical, control engineer with masters degree from UK
-- 👀 I’m interested in python and c++ programming and cloud 
-- 🌱 I’m currently learning programming and data analysing 
-- 💞️ I’m looking to collaborate on open source projects to grow my knowledge and skills 
+- 👋 Hi, I’m @Minooaref an Electrical, control engineer with a master's degree from UK
+- 👀 I’m interested in python, cyber security and cloud engineering 
+- 🌱 I’m currently learning programming and cyber security
 - 📫 How to reach me ...
 
 <!---
